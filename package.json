@@ -2,7 +2,7 @@
     "name": "brainscloud",
     "version": "1.0.0",
     "description": "brainscloud",
-    "author": "brainscloud",
+    "author": "brainscloud",  
     "devDependencies": {
         "@babel/core": "^7.12.10",
         "@babel/preset-env": "^7.12.10",
